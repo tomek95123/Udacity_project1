@@ -11,17 +11,17 @@
 In this project I am analysing the Boston crimes dataset, which is available on Kaggle. The dataset contains around 300k reported crimes in Boston. Each observation is a description of crime and conteains the following details(columns in dataset):
 - INCIDENT_NUMBER:
 - OFFENSE_CODE:
-- OFFENSECODEGROUP:
+- OFFENSE_CODE_GROUP:
 - OFFENSE_DESCRIPTION:
 - DISTRICT:
-- REPORTING_AREA:
+- REPORTING_AREA: 
 - SHOOTING:
-- OCCURREDONDATE:
+- OCCURRED_ON_DATE:
 - YEAR:
 - MONTH:
-- DAYOFWEEK:
+- DAY_OF_WEEK:
 - HOUR:
-- UCR_PART:
+- UCR_PART: 
 - STREET:
 - LATITUDE:
 - LONGITUDE:
