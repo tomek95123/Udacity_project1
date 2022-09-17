@@ -33,5 +33,5 @@ This repo contains two files:
 - 'udacity_project_1.ipynb' which is a file dedicated for the analysis of crime dataset. This file contains all neccessary explanations in the comments of what a given part of code is doing. 
 
 # Medium Blog Post
-Findings of the analysis can be found at the Medium Blog post [https://medium.com/@tomekfaber_55869/data-that-will-help-you-save-your-life-c97413bf2c4c](URL 'here').
+Findings of the analysis can be found at the Medium Blog post ['here'](URL https://medium.com/@tomekfaber_55869/data-that-will-help-you-save-your-life-c97413bf2c4c).
 
