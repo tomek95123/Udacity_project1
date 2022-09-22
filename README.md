@@ -23,4 +23,4 @@ This repo contains two files:
 Findings of the analysis can be found at the Medium Blog post [here](https://medium.com/@tomekfaber_55869/data-that-will-help-you-save-your-life-c97413bf2c4c).
 
 # Licensing, Authors, Acknowledgements
-- Data source: [Boston crimes](https://www.kaggle.com/datasets/ankkur13/boston-crime-data)
+Acknowledgement to Kaggle and Ankurjain for providing the dataset, data source: [Boston crimes](https://www.kaggle.com/datasets/ankkur13/boston-crime-data).
